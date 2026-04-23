@@ -1,0 +1,5 @@
+idDepense;natureDepense;plafondMax;description
+1;Hotel;150;Plafond par nuitée
+2;Repas;30;Plafond par repas individuel
+3;Transport;500;Plafond par trajet (Train/Avion)
+4;Divers;50;Petites fournitures ou imprévus
